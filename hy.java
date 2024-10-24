@@ -1,5 +1,5 @@
-public class ho {
+public class hy {
     public static void main(String[] args) {
-        System.out.println(".");
+        System.out.println("H");
     }
 }
