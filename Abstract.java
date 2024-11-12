@@ -18,6 +18,5 @@ public class Abstract {
         obj1.run();
         obj1.stop();
         
-        
     }
 }
